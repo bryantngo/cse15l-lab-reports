@@ -1,1 +1,1 @@
-**Hello, World! My name is Bryant Ngo.**
+**Hello, World! My name is** *Bryant Ngo.*
