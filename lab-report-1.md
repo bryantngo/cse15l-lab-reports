@@ -9,7 +9,7 @@ If you are on Windows, download git [here](https://gitforwindows.org). Since I a
 
 To use ssh, open the terminal (use the Terminal → New Terminal menu option) and enter the command $ ssh cs15lsp23zz@ieng6.ucsd.edu (the zz will be replaced by the letters in your course specific account, in my case, this will be replaced with rz). 
 
-**Note:** the $ is just connvention for how commands are written but do not type it in the terminal)
+**Note:** the $ is just convention for how commands are written but do not type it in the terminal)
 
 If it is your first time connecting, the terminal may ask you if you want to keep connecting, type yes.
 
