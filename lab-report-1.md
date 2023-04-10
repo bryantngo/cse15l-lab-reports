@@ -15,8 +15,10 @@ If it is your first time connecting, the terminal may ask you if you want to kee
 
 After typing in your password, your terminal should look like this: ![Image](Screen Shot 2023-04-09 at 8.15.04 PM.png)
 
+**You are now connected to a computer in the CSE basement and all commands that are run will run on this computer!**
+
 ## Trying Some Commands
-We can now type in some commands (cd, ls, pwd, mkdir, and cp)
+We can now type in some commands (cd, ls, pwd, mkdir, and cp). Trying typing these commands in the remote server as well as your personal computer.
 
 More specific commands: 
 * cd ~
