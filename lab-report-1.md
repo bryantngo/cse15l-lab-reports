@@ -31,6 +31,6 @@ Some output may look like this: ![Image](Screen Shot 2023-04-09 at 8.29.08 PM.pn
 
 **You have now successfully logged into a course specific account on ieng6!**
 
-To log out of the server, you may use Crtl-D or run the $ exit command.
+To log out of the server, you may use Ctrl-D or run the $ exit command.
 
 
