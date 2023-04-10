@@ -20,4 +20,7 @@ More specific commands:
 *ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
 *cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 *cat /home/linux/ieng6/cs15lsp23/public/hello.txt
-Some output may look like this: ![Image](
+Some output may look like this: ![Image](Screen Shot 2023-04-09 at 8.29.08 PM.png)
+
+To log out of the server, you may use Crtl-D or run the $ exit command.
+
