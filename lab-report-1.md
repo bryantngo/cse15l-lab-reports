@@ -22,9 +22,13 @@ We can now type in some commands (cd, ls, pwd, mkdir, and cp). Trying typing the
 
 
 `* cd` changes directory
+
 `* ls` lists files in current directory
+
 `* pwd` writes full length path
+
 `* mkdir` makes directory
+
 `* cp` copies files
 
 More specific commands: 
