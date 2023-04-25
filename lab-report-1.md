@@ -20,13 +20,12 @@ After typing in your password, your terminal should look like this: ![Image](Scr
 ## Trying Some Commands
 We can now type in some commands (cd, ls, pwd, mkdir, and cp). Trying typing these commands in the remote server as well as your personal computer.
 
-```
-* cd
-* ls
-* pwd
-* mkdir
-* cp
-```
+
+`* cd` changes directory
+`* ls` lists files in current directory
+`* pwd` writes full length path
+`* mkdir` makes directory
+`* cp` copies files
 
 More specific commands: 
 
