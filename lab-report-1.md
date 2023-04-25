@@ -19,6 +19,7 @@ After typing in your password, your terminal should look like this: ![Image](Scr
 
 ## Trying Some Commands
 We can now type in some commands (cd, ls, pwd, mkdir, and cp). Trying typing these commands in the remote server as well as your personal computer.
+
 '''
 * cd
 * ls
@@ -28,6 +29,7 @@ We can now type in some commands (cd, ls, pwd, mkdir, and cp). Trying typing the
 '''
 
 More specific commands: 
+
 '''
 * cd ~
 * cd
