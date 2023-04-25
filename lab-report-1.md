@@ -39,7 +39,7 @@ More specific commands:
 * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 * cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 '''
-  
+
 Some output may look like this: ![Image](Screen Shot 2023-04-09 at 8.29.08 PM.png)
 
 **You have now successfully logged into a course specific account on ieng6!**
