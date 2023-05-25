@@ -202,7 +202,7 @@ $ grep -m 10 "aircraft" technical/911report/chapter-10.txt
 ```
 This found three instances of the key word. It would have found ten instances but the file did not have anymore lines with the keyword, therefore, only three lines were reported.
 
-
+I found this command asking ChatGPT for interesting grep command line options.
 
         
     
