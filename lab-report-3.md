@@ -152,7 +152,55 @@ non-intrusive."
 
 
 ```
-I found this command from [this](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/) link.
+I found this command at [this](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/) link.
+
+## -n
+This command gives us the line numbers of the key word occurences. This may be useful if we are citing a specific line and are refering it to someone else. 
+
+```
+$ grep -n "legal" technical/government/Media/Poor_Lacking_Legal_Aid.txt 
+
+12:Poor Americans are not getting the legal help they need, the
+17:legal
+25:In his 20-minute remarks, Carlton described providing legal
+28:facing the legal profession.
+41:established in 1974 that provides legal aid to low-income people
+
+```
+Here, there are 5 lines that include the key word "legal".
+
+```
+$ grep -n "disease" technical/biomed/1468-6708-3-3.txt 
+11:        disease. These trials found that when compared with
+16:        stable coronary disease. Because
+22:        unstable coronary disease. Whether
+27:        coronary disease than in the stable setting. The Myocardial
+167:        greater than in patients with stable coronary disease, and
+203:        stable coronary disease is
+213:        disease will ultimately require both pharmacologic and
+266:        statins from patients with established coronary disease.
+270:        or unstable disease and will need to
+```
+I found this command at [this](https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/) link.
+
+## -m num
+This command stops searching after num matches have been found. This can be useful if you only want the first serveral instances of a key word from a file.
+
+```
+$ grep -m 3 "disease" technical/biomed/1468-6708-3-3.txt
+        disease. These trials found that when compared with
+        stable coronary disease. Because
+        unstable coronary disease. Whether
+```
+This found three instances of the key word and does not report any more instances after that. 
+
+```
+$ grep -m 10 "aircraft" technical/911report/chapter-10.txt
+         people. The Secret Service was also interested in refueling the aircraft and paring
+         For the first time in history, all nonemergency civilian aircraft in the United
+         aircraft and a much larger infrastructure of intelligence and support efforts, had
+```
+This found three instances of the key word. It would have found ten instances but the file did not have anymore lines with the keyword, therefore, only three lines were reported.
 
 
 
