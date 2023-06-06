@@ -18,5 +18,6 @@ You must run an if statement checking if name is equal to null and throwing eith
 
 ![Image](Screen Shot 2023-06-05 at 11.33.00 PM.png)
 
+The bug is that in an attempt to concatenate name with the greeting message, in Java, when you concatenate null with the "+" operator, the null reference is converted to the string "null". The program always assumes that name will hold a valid value. 
 
 
