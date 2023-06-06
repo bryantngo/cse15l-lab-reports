@@ -1,4 +1,4 @@
-# Debugging Scenariot
+# Debugging Scenario
 
 ![Image](Screen Shot 2023-06-05 at 11.24.09 PM.png)
 
